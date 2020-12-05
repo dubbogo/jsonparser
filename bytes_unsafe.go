@@ -4,9 +4,9 @@ package jsonparser
 
 import (
 	"reflect"
+	"runtime"
 	"strconv"
 	"unsafe"
-	"runtime"
 )
 
 //
